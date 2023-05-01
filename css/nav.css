@@ -1,0 +1,16 @@
+
+nav {
+    background-color: #a40c24;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+a {
+    color: #F7F4F3;
+    text-decoration: none;
+    font-size: 25px;
+
+}

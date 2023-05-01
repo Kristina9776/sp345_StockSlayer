@@ -1,0 +1,112 @@
+header {
+    font-size: 35px;
+    margin-bottom: 1vh;
+}
+
+body {
+    font-family: cursive;
+    margin: 0;
+
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+div {
+    margin: 0;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 35px;
+}
+
+#stonks {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5%;
+
+}
+
+#whatDo {
+    /* border: 2px;
+    border-radius: 3px;
+    border-style: dashed;
+    border-color: darkred; */
+    padding: 20px;
+    width: 1000px;
+}
+
+#profiles {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+figcaption {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+
+h1 {
+    text-align: center;
+}
+
+#Riley {
+    text-align: center;
+}
+
+#logo {
+    display: block;
+    margin-bottom: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+form {
+    text-align: center;
+}
+
+#welcomeWho {
+    margin-top: 0%;
+    text-align: center;
+
+}
+
+.textBox {
+    text-align: center;
+}
+
+#outputArea {
+    display: none;
+}
+
+#secret {
+    margin-top: 37%;
+}
+
+#outputArea {
+    text-align: center;
+    color: #a40c24;
+    font-size: 25px;
+}
+.greedy{
+    text-align: left;
+}
